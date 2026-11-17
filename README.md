@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Michael 👋
 
-<!--
-**michael333-xlin/michael333-xlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Applied Data Science at the University of Chicago. I previously studied Data Science and Economics at the University of Wisconsin–Madison.
 
-Here are some ideas to get you started:
+I'm interested in how data, economics, and technology can help us understand real-world problems and make better decisions. I enjoy turning analysis into interactive tools that people can explore and use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of data, I love traveling and photography — discovering new places, exploring different landscapes, and capturing the details that make each place unique.
+
+📍 Chicago, IL
+
+[LinkedIn](https://www.linkedin.com/in/xiayang-lin-60423b304/) · [Email](mailto:xiayanglin2360@gmail.com)
+
+---
+
+## Featured Projects
