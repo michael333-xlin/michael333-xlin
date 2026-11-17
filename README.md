@@ -19,5 +19,6 @@ I love traveling and photography — discovering new places, exploring different
 ### 📍 Chicago, IL · [LinkedIn](https://www.linkedin.com/in/xiayang-lin-60423b304/) · [Email](mailto:xiayanglin2360@gmail.com)
 
 ---
+### 👇 Explore My Projects
 
-## Featured Projects
+Take a look at my pinned repositories below to see what I've been building.
